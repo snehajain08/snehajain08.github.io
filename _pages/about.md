@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Daylight, Wellbeing, and the Living Environment Lab. School of Architecture, Planning and Landscape (SAPL), University of Calgary.
+subtitle: >
+  <strong><span style="font-size: 1.3em;">D</span>aylight, <span style="font-size: 1.3em;">W</span>ellbeing, and the <span style="font-size: 1.3em;">L</span>iving Environment <span style="font-size: 1.3em;">L</span>ab</strong>.<br>
+  School of Architecture, Planning and Landscape (SAPL)<br>
+  University of Calgary.
 
 profile:
   align: right
