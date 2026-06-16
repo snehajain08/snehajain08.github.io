@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-10-01 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+New article in <em>Scientific Reports</em> (Nature): <a href="https://www.nature.com/articles/s41598-025-21737-5">"Influence of color on glare perception revealed when seeing the sun through colored [glazing]"</a> (Jain, Wienold, Hellwig, Andersen).
