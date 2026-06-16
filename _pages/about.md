@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-DWELL (Daylight, Wellbeing, and the Living Environment Lab) investigates how the built environment shapes human comfort, health, and wellbeing. Led by [Dr. Sneha Jain](/people/), the lab combines psychophysical experiments, physiological measurement (eye-tracking, pupillometry), field monitoring, and building simulation to understand the broader impact of indoor environmental quality on occupants, with a particular focus on the impact of daylight on vulnerable populations such as older adults in affordable housing.
+<strong style="font-family: Georgia, serif;">DWELL</strong> (Daylight, Wellbeing, and the Living Environment Lab) investigates how the built environment shapes human comfort, health, and wellbeing. Led by [Dr. Sneha Jain](/people/), the lab combines psychophysical experiments, physiological measurement (eye-tracking, pupillometry), field monitoring, and building simulation to understand the broader impact of indoor environmental quality on occupants, with a particular focus on the impact of daylight on vulnerable populations such as older adults in affordable housing.
 
 **Research areas:** Human comfort & wellbeing, indoor environment quality, windows & daylighting, building automation & control.
 
