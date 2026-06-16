@@ -2,24 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Daylight, Wellbeing, and the Living Environment Lab. School of Architecture, Planning and Landscape (SAPL), University of Calgary.
 
 profile:
   align: right
   image: profile_photo.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>SAPL Downtown Campus, Room 1311</p>
+    <p>801 7th Ave SW</p>
+    <p>Calgary, AB, Canada T2P 1A1</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+DWELL (Daylight, Wellbeing, and the Living Environment Lab) investigates how the built environment shapes human comfort, health, and wellbeing. Led by [Dr. Sneha Jain](/people/), the lab combines psychophysical experiments, physiological measurement (eye-tracking, pupillometry), field monitoring, and building simulation to understand the broader impact of indoor environmental quality on occupants, with a particular focus on the impact of daylight on vulnerable populations such as older adults in affordable housing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Research areas:** Human comfort & wellbeing, indoor environment quality, windows & daylighting, building automation & control.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Current lab initiatives:**
+- Living Lab to monitor indoor building environment's impact on health and wellbeing (PI: Dr. Jain)
+- A Transdisciplinary Framework for Designing Healthier Living Environments (PI: Dr. Jain)
+- Affordable, dignified and climate-resilient housing — a Canada-Germany initiative (Co-PI: Dr. Jain)
+
+Contact: [sneha.jain@ucalgary.ca](mailto:sneha.jain@ucalgary.ca)

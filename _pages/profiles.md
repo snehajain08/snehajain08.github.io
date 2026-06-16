@@ -7,22 +7,41 @@ nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><strong>Dr. Sneha Jain</strong></p>
+      <p>Lab Head, Assistant Professor</p>
+      <p>SAPL Downtown Campus, Room 1311</p>
+      <p><a href="mailto:sneha.jain@ucalgary.ca">sneha.jain@ucalgary.ca</a></p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    content: people_utku_cerit.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><strong>Utku Cerit</strong></p>
+      <p>Graduate Student</p>
+  - align: right
+    image: prof_pic.jpg
+    content: people_sara_kazoun.md
+    image_circular: false
+    more_info: >
+      <p><strong>Sara Kazoun</strong></p>
+      <p>Graduate Student</p>
+  - align: left
+    image: prof_pic.jpg
+    content: people_michaela_reid.md
+    image_circular: false
+    more_info: >
+      <p><strong>Michaela Reid</strong></p>
+      <p>Summer Research Student</p>
+  - align: right
+    image: prof_pic.jpg
+    content: people_yasmine_baccari.md
+    image_circular: false
+    more_info: >
+      <p><strong>Yasmine Baccari</strong></p>
+      <p>Summer Research Student</p>
 ---
