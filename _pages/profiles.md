@@ -9,7 +9,7 @@ nav_order: 7
 profiles:
   - align: right
     image: SJ_profile_photo.png
-    content: about_sneha.md
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><strong>Dr. Sneha Jain</strong></p>
