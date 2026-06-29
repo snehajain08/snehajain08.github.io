@@ -8,4 +8,4 @@ She was previously a Postdoctoral Scholar at Stanford University (Civil and Envi
 - Postdoctoral Scholar, Civil and Environmental Engineering, Stanford University, 2023-2025 (Advisor: Prof. Sarah Billington)
 - Ph.D. Civil and Environmental Engineering, EPFL, Switzerland, 2019-2023 (Advisors: Prof. Marilyne Andersen, Dr. Jan Wienold) — Dissertation: Influence of transmitted color and the eye's macular pigment on discomfort glare
 - M.S. Information Technology in Building Science, IIIT India / LBNL USA (6-month fellowship), 2016-2018 (Advisors: Prof. Vishal Garg, Dr. Luis Fernandes, Christian Kohler) — Dissertation: Daylighting estimation for control using high dynamic range imaging
-- B.Arch. Architecture, National Institute of Technology, Bhopal, India, 2010-2015 (Registered Architect in India)
+- B.Arch. Architecture, National Institute of Technology, Bhopal, India, 2010-2015 

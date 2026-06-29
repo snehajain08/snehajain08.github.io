@@ -1,1 +1,2 @@
-Summer Research Student, Architecture and Civil Engineering, University of Calgary (2026-Present).
+Undergraduate Research Student, Civil Engineering, University of Calgary (2025-Present).
+ I am an undergraduate student in Civil Engineering at the University of Calgary. I love travelling, being outdoors as well as art & architecture. My work at DWELL lab evaluates human eye-tracking data like pupil size and blink rate to understand how different lighting conditions and glare scenarios impact poeple's visual comfort in indoor environments.

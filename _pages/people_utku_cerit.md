@@ -1,1 +1,1 @@
-Graduate Student, Computational Media Design, University of Calgary (2026-Present).
+Graduate Student, MSc Computational Media Design, University of Calgary (Incoming Fall 2026).
