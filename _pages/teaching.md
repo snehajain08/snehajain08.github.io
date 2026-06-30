@@ -19,14 +19,17 @@ Organize your courses by years, topics, or universities, however you like!
   
   **Description:** This course explores foundational principles, theories, and practices of environmental stewardship across multiple scales. Students analyze site, neighborhood, and city planning strategies focused on resource efficiency and regenerative ecosystems. Through case studies and lifecycle assessments, participants learn to manage human environmental impacts and articulate informed professional perspectives on sustainable design.
 
-- ARCH 500 Sustainability in Architecture, Fall semester course
-link: https://calendar.ucalgary.ca/courses/1651651
-Description: This course explores foundational principles, theories, and practices of environmental stewardship across multiple scales. Students analyze site, neighborhood, and city planning strategies focused on resource efficiency and regenerative ecosystems. Through case studies and lifecycle assessments, participants learn to manage human environmental impacts and articulate informed professional perspectives on sustainable design.
 - ARCH 608 Lighting Design, Winter Block course
+link: https://calendar.ucalgary.ca/courses/1648291/overview-aoYks
+Description: This course explores the fundamentals of visual perception, designing with daylighting and electric lighting. Introduction to the lighting and shading devices and control systems. Development of skills in selecting, designing and simulating lighting and daylighting systems as well as understanding their impact on human wellbeing and environmental performance.
+
 - ARCH 514 Studio II in Architecture, Winter semester course
+link: https://calendar.ucalgary.ca/courses/1651721/overview-aoYks
+Description: Studio II in Architecture is a required course in the Master of Architecture program and ARST Minor option. It builds off the foundational skills developed in Studio I and is structured around several design exercises that explore formal, contextual, material, spatial, and social aspects to continue to develop fundamental architectural skills. The course is framed through theories of what architecture is today, what it has been in the past, and what it could become.
+
 - ARCH 614 Environment Control System, Winter semester course
 link: https://calendar.ucalgary.ca/courses/1648321/overview-aoYks
-Description: A comfortable, healthy, safe and productive indoor environment is a critical goal in the design of buildings. Achieving this may be challenging in a northern climate where several factors must be considered and balanced simultaneously. The goal of the course is to bridge the gap between architecture and mechanical engineering, seeking to achieve a sustainable built environment. The course explores the design of building systems for cold climates, outlining key aspects that architects should be aware of while reducing the negative environmental effects of constructing and operating active building systems. 
+Description: Bridging architectural design and mechanical engineering, this course covers the integration of active and passive systems to minimize building energy footprints. Focusing on cold climates, students learn to calculate heat transfer, size mechanical ductwork, and manage indoor air quality through natural ventilation and heat recovery, ensuring optimal thermal comfort and system coordination.
 
 Past courses
 **Stanford University** — CEE 133A: Studio 1 – Architecture: Light, Space, and Movement, Sustainable Architecture + Engineering — Fall 2024
