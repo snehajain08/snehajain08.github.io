@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 7
+title: Deep learning based comfort predictions
 description: with background image
-img: assets/img/4.jpg
+img: assets/img/publication_preview/gupta2024deep.png
 importance: 1
-category: work
+category: completed
 related_publications: true
 ---
 

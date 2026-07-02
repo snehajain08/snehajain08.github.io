@@ -7,14 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
 
 **Current courses**
 
 **University of Calgary, Canada** (2025-Present)
-- ### [ARCH 500 Sustainability in Architecture](https://calendar.ucalgary.ca/courses/1651651), Fall semester course
+- ## [ARCH 500 Sustainability in Architecture](https://calendar.ucalgary.ca/courses/1651651), Fall semester course
   ![ARCH 500 Sustainability in Architecture course banner showing architectural forms and sustainable design themes](/assets/img/arch500.jpg){: width="300px" }
   
   **Description:** This course explores foundational principles, theories, and practices of environmental stewardship across multiple scales. Students analyze site, neighborhood, and city planning strategies focused on resource efficiency and regenerative ecosystems. Through case studies and lifecycle assessments, participants learn to manage human environmental impacts and articulate informed professional perspectives on sustainable design.
@@ -32,7 +29,10 @@ link: https://calendar.ucalgary.ca/courses/1648321/overview-aoYks
 Description: Bridging architectural design and mechanical engineering, this course covers the integration of active and passive systems to minimize building energy footprints. Focusing on cold climates, students learn to calculate heat transfer, size mechanical ductwork, and manage indoor air quality through natural ventilation and heat recovery, ensuring optimal thermal comfort and system coordination.
 
 Past courses
-**Stanford University** — CEE 133A: Studio 1 – Architecture: Light, Space, and Movement, Sustainable Architecture + Engineering — Fall 2024
+**Stanford University** 
+CEE 133A: Studio 1 – Architecture: Light, Space, and Movement
+Sustainable Architecture + Engineering — Fall 2024
+
 
 **CEPT, India** — Daylight beyond codes: Decoding daylight in Indoor spaces — Summer 2023
 

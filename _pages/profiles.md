@@ -31,7 +31,7 @@ profiles:
       <p><strong>Yasmine Baccari</strong></p>
       <p>Undergraduate Research Student</p>
   - align: left
-    image: prof_pic.jpg
+    image: pfpUtku.jpeg
     content: people_utku_cerit.md
     image_circular: false
     more_info: >

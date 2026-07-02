@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: A Transdisciplinary Framework for Designing Healthier Living Environments
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/calgary_skyline1.jpg
 importance: 1
-category: work
+category: ongoing
 related_publications: true
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 8
+title: Discomfort glare
 description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
+img: assets/img/publication_preview/jain2025color.png
 importance: 2
-category: work
+category: completed
 giscus_comments: true
 ---
 
